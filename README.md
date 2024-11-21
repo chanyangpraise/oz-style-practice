@@ -1,3 +1,4 @@
+![Screenshot 2024-11-21 at 1 05 35 PM](https://github.com/user-attachments/assets/cd91b8a7-7638-4cd0-9766-2c9326a291ca)
 # Styled-Components를 이용하여 OZ 페이지 디자인하기
 
 ## 학습 목표
